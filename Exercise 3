@@ -1,0 +1,4 @@
+a. The root node is 50.
+b. Leaf nodes are 9, 14, 19, 67, 76
+c. Ancestor nodes are 23, 17, 50
+d. Sequence of node values in post-order traversal are 9, 14, 12, 19, 23, 17, 67, 54, 76, 72, 50
